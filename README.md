@@ -2,7 +2,7 @@
 
 ## 📌 Project Summary
 End-to-end **marketing analytics project** analyzing paid advertising performance across **Meta platforms (Facebook & Instagram)** using **Power BI**.  
-The dashboard evaluates campaign effectiveness across the full customer funnel — from **impressions and engagement to conversions and purchases** — enabling **data-driven optimization of ad spend and ROI**.
+The dashboard evaluates campaign effectiveness across the full customer funnel from **impressions and engagement to conversions and purchases** enabling **data-driven optimization of ad spend and ROI**.
 
 This project demonstrates strong capabilities in **data analysis, business intelligence, KPI design, dashboarding, and stakeholder-focused insights**.
 
@@ -72,7 +72,7 @@ This dashboard enables teams to:
 
 ---
 
-## 🚀 Skills Demonstrated (ATS Keywords)
+## 🚀 Skills Demonstrated
 - Data Analyst  
 - Marketing Analyst  
 - Power BI Dashboard  
