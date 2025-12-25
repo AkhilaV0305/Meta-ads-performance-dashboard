@@ -1,112 +1,90 @@
-📊 Meta Ad Performance Analysis | Power BI Marketing Analytics Dashboard
-📌 Project Summary (Recruiter Snapshot)
+# 📊 Meta Ad Performance Analysis | Power BI Marketing Analytics Dashboard
 
-End-to-end marketing analytics project analyzing Meta (Facebook & Instagram) advertising performance using Power BI. The dashboard evaluates campaign effectiveness across the full customer funnel — from impressions and engagement to conversions — enabling data-driven optimization of ad spend and ROI.
+## 📌 Project Summary
+End-to-end **marketing analytics project** analyzing paid advertising performance across **Meta platforms (Facebook & Instagram)** using **Power BI**.  
+The dashboard evaluates campaign effectiveness across the full customer funnel — from **impressions and engagement to conversions and purchases** — enabling **data-driven optimization of ad spend and ROI**.
 
-This project demonstrates strong skills in data analysis, KPI design, business intelligence, dashboarding, and stakeholder-ready insights.
+This project demonstrates strong capabilities in **data analysis, business intelligence, KPI design, dashboarding, and stakeholder-focused insights**.
 
-🧠 Business Problem
+---
 
-Marketing teams often struggle to understand:
+## 🧠 Business Problem
+Marketing teams often face challenges in answering:
+- Which platform delivers better performance?
+- Which ad formats drive engagement and conversions?
+- Which audience segments respond best?
+- When should ads be run for maximum impact?
+- Where do users drop off in the conversion funnel?
 
-Which platform and ad formats actually drive conversions
+This project solves these problems by transforming raw ad data into **actionable business insights**.
 
-Which audience segments respond best
+---
 
-Where potential customers drop off in the funnel
+## 🎯 Business Questions Answered
+- Which platform performs better: **Facebook or Instagram**?
+- Which **ad formats** (Video, Story, Image, Carousel) generate the highest engagement and conversions?
+- Who is the most responsive audience by **age, gender, and location**?
+- What is the **best time of day** to run ads?
+- Where does the **conversion funnel drop off**?
 
-When ads perform best during the day
+---
 
-This project addresses these challenges by transforming raw advertising data into actionable insights.
-
-🎯 Key Business Questions Answered
-
-Facebook vs Instagram: Which platform performs better?
-
-Which ad formats (Video, Story, Image, Carousel) drive the highest engagement and purchases?
-
-Which audience segments perform best by age, gender, and location?
-
-What is the optimal time of day to run ads?
-
-Where does the conversion funnel drop off?
-
-📊 Dashboard Overview (How to Read)
-
+## 📊 Dashboard Overview
 The Power BI dashboard includes:
 
-Executive KPIs: Reach, Clicks, CTR, Purchases, Conversion Rate
+- **Executive KPIs**: Reach, Clicks, CTR, Purchases, Conversion Rate  
+- **Audience Analysis**: Engagement by age group, gender, and geography  
+- **Time-Based Analysis**: Performance by hour and day  
+- **Ad Format Comparison**: Video vs Story vs Image vs Carousel  
+- **Funnel Analysis**: Impressions → Clicks → Purchases  
 
-Audience Analysis: Engagement by age, gender, and geography
+Designed for **quick interpretation by marketing managers and business stakeholders**.
 
-Time Series Analysis: Hourly and daily performance trends
+---
 
-Ad Format Comparison: Performance by creative type
+## 📈 Key Insights
+- Ads achieve strong **visibility and engagement**, indicating effective creatives and targeting
+- **Purchases lag behind engagement**, highlighting conversion optimization opportunities
+- **Females aged 18–30** are the most engaged audience segment
+- **Video and Story ads** outperform Image and Carousel formats
+- Engagement peaks during **afternoon and evening hours**
 
-Funnel Analysis: Impressions → Clicks → Purchases
+---
 
-Designed for quick decision-making by marketing managers and stakeholders.
+## 💼 Business Impact
+This dashboard enables teams to:
+- Make **data-driven decisions** on ad spend allocation
+- Focus on **high-performing audiences and ad formats**
+- Improve **conversion strategies**
+- Increase overall **marketing ROI**
+- Monitor campaign performance in a **single, easy-to-understand view**
 
-📈 Key Insights & Findings
+---
 
-High visibility and engagement, indicating effective targeting and creatives
+## 🛠 Tools & Technologies
+- **Power BI**
+- **Marketing Analytics**
+- **Data Analysis & Transformation**
+- **KPI Design**
+- **Funnel Analysis**
+- **Business Intelligence**
+- **Data Visualization**
 
-Conversion lag after engagement, revealing optimization opportunities
+---
 
-Females aged 18–30 are the most responsive audience segment
+## 🚀 Skills Demonstrated (ATS Keywords)
+- Data Analyst  
+- Marketing Analyst  
+- Power BI Dashboard  
+- Business Intelligence  
+- KPI Development  
+- Funnel Analysis  
+- ROI Optimization  
+- Campaign Performance Analysis  
+- Stakeholder Reporting  
+- Data Visualization  
 
-Video and Story ads outperform static formats
+---
 
-Engagement peaks during afternoon and evening hours
-
-💼 Business Impact
-
-This analysis enables teams to:
-
-Optimize ad spend allocation
-
-Focus on high-performing audiences and creatives
-
-Improve conversion strategies
-
-Increase overall marketing ROI
-
-Monitor campaign performance in a single source of truth dashboard
-
-🛠 Tools & Technologies
-
-Power BI (Dashboarding, DAX, Data Modeling)
-
-Marketing Analytics
-
-KPI Design & Funnel Analysis
-
-Data Cleaning & Transformation
-
-Business Intelligence & Data Visualization
-
-🚀 Skills Demonstrated (ATS Keywords)
-
-Data Analyst
-
-Marketing Analytics
-
-Power BI Dashboard
-
-Business Intelligence
-
-KPI Development
-
-Funnel Analysis
-
-ROI Optimization
-
-Data Visualization
-
-Stakeholder Reporting
-
-Campaign Performance Analysis
-
-⭐ Why This Project Matters
-
-This project showcases the ability to translate complex marketing data into clear, actionable insights, bridging the gap between technical analysis and business decision-making — a critical skill for Data Analyst, Business Analyst, and Marketing Analyst roles.
+## ⭐ Why This Project Matters
+This project demonstrates the ability to **translate complex marketing data into clear, actionable insights**, bridging the gap between **technical analysis and business decision-making** — a critical skill for **Data Analyst, Business Analyst, and Marketing Analyst roles**.
